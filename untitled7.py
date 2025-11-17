@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wndYawFJKscFM0duJzrZUM1QJ4R4kzHp
 """
 
-# Modified untitled0.py
 # Cleaned, restructured, and extended version of the original Colab notebook.
 # Improvements implemented:
 # - Clear, modular structure with functions
